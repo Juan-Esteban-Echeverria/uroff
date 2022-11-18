@@ -16,6 +16,24 @@
     margin-right: auto;
 }
 
-h1{
-    text-align: center;
+.body-carta{
+    background: radial-gradient(153.9% 81% at 50% 86.43%, #EBD300 0%, #CE0014 100%)
 }
+
+.luchador{
+    float: left;
+    width:  15em;
+    height: 10em;
+    object-fit:contain;
+}
+
+.botonR{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    background-image:url('./img/filtro.png');
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
